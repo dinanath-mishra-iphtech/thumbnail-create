@@ -1,0 +1,37 @@
+=====================================
+  🖼️  WebP Thumbnail Creator — Guide
+=====================================
+
+FIRST TIME SETUP (only once):
+-------------------------------
+1. Open Terminal
+2. Type this and press Enter:
+   pip3 install Pillow
+
+
+HOW TO USE (every time):
+-------------------------------
+1. Copy your image(s) into the  →  input/  folder
+
+2. Double-click  →  run-thumbnail.command
+   (If Mac asks permission: Right-click → Open → Open)
+
+3. Your thumbnails will appear in  →  output/  folder
+
+
+RESULT:
+-------------------------------
+✅ Size: Under 150×150 pixels
+✅ File size: Under 1 KB
+✅ Format: WebP
+
+
+NOTES:
+-------------------------------
+- Supported images: PNG, JPG, JPEG, WEBP, BMP, GIF
+- Already processed images are skipped automatically
+- To redo an image: delete it from output/ and run again
+
+
+Need help? Contact: [your name/email here]
+=====================================
